@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gem Relton R , 🚗 Biggest Car Geek</h1>
+<h1 align="center">Hi 👋, I'm Gem Relton , 🚗 Biggest Car Geek</h1>
 <h3 align="center">A passionate Masters Student in Electric Vehicle Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gemrelton&label=Profile%20views&color=0e75b6&style=flat" alt="gemrelton" /> </p>
@@ -11,10 +11,11 @@
 
 - 🤝 I’m looking for help with **STM32 , CubeIDE**
 
-- 📫 How to reach me **reltongem@gmail.com**
+- 📫 How to reach me    [![Email](https://img.icons8.com/ios-filled/30/ffffff/gmail.png)](mailto:reltongem@gmail.com)  
+
 
 - ### 📄 My Resume  
-[![Resume](https://img.icons8.com/ios-filled/50/000000/resume.png)](https://drive.google.com/file/d/1Hvmr7gvJQaMtxmaOr5ikyKE8qlebqLVk/view?usp=drive_link)  
+[![Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://drive.google.com/file/d/1Hvmr7gvJQaMtxmaOr5ikyKE8qlebqLVk/view?usp=drive_link)  
 
 
 <h3 align="left">Connect with me:</h3>
