@@ -39,6 +39,4 @@ Lets GOoooo!!!
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemrelton&" alt="gemrelton" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gemrelton&show_icons=true&locale=en" alt="gemrelton" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gemrelton&" alt="gemrelton" /></p>
