@@ -18,7 +18,7 @@ Lets GOoooo!!!
 
 
 - ### 📄 My Resume  
-[![Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://drive.google.com/file/d/1Hvmr7gvJQaMtxmaOr5ikyKE8qlebqLVk/view?usp=drive_link)  
+[![Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://drive.google.com/drive/folders/1MYcphr7QHP7FX51qiJIy3eGSEW8KorgS)  
 
 
 <h3 align="left">Connect with me:</h3>
