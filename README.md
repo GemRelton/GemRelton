@@ -8,17 +8,17 @@ Lets GOoooo!!!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gemrelton" alt="gemrelton" /></a> </p>
 
-- 🔭 I’m currently working on **ADAS**
+- 🔭 I’m currently working on **Vehicle Performance Simulation**
 
-- 🌱 I’m currently learning **Django, STM32-CubeIDE**
+- 🌱 I’m currently learning **Cloud Computing, HIL & SIL**
 
-- 🤝 I’m looking for help with **STM32 , CubeIDE**
+- 🤝 I’m looking for help with **Hardware-In-Loop testing , dSpace**
 
 - 📫 How to reach me    [![Email](https://img.icons8.com/ios-filled/30/ffffff/gmail.png)](mailto:reltongem@gmail.com)  
 
 
 - ### 📄 My Resume  
-[![Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://drive.google.com/file/d/1af-RYlfyvjIValSQxFNUJ0Ulvr8EFfbr/view?usp=drive_link)  
+[![Resume](https://img.icons8.com/ios-filled/50/ffffff/resume.png)](https://drive.google.com/file/d/1QlNWr5_6uDTNWYW9EC4ex5ZH-zsrf2cv/view?usp=drive_link)  
 
 
 <h3 align="left">Connect with me:</h3>
