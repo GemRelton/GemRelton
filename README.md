@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gem Relton , 🚗 Biggest Car Geek</h1>
-<h3 align="center">A passionate Masters Student in Electric Vehicle Technology</h3>
+<h3 align="center">A passionate Masters Student in ICEV & EVs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gemrelton&label=Profile%20views&color=0e75b6&style=flat" alt="gemrelton" /> </p> 
 
